@@ -22,11 +22,7 @@ The primary goal of this project was to understand:
 
 ### Desktop View
 
-Add a screenshot of the application here:
-
-```
-![Customer Segmentation UI](./public/screenshots/homepage.png)
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03a132bf-b3bb-4e24-a350-d0cb2a2e69b5" />
 
 > Note: This project is currently optimized for desktop screens and was built primarily for learning React component architecture, props, and Tailwind CSS. Responsive design will be added in future updates.
 
