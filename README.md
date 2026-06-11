@@ -195,7 +195,7 @@ By building this project, I gained hands-on experience with:
 
 ### Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourusername
+* GitHub: https://github.com/memon-gulam-45
+* LinkedIn: https://www.linkedin.com/in/gulammohyudin-memon
 
 ---
